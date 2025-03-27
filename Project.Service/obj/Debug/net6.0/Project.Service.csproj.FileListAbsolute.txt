@@ -1,0 +1,598 @@
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\04.02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\user1\Downloads\jm_sKnz-mEQUUWlDc7\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\user1\Downloads\09_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\user1\Downloads\09_02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\10_02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\11_02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\26_02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\user1\Downloads\jm_9e-qK8VQbECfLIM\26_02\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\27-02_2\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\01-03\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\01-03\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\04.03\C#\01-03\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\mac\Desktop\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\mac\Desktop\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\mac\Desktop\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\Project with controllers\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\05.03\version2 for this day\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\C#\06-03_2\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\למילכה!!!!!\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\07.03\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\08.03\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\08.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\09.03\גרסה 3\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 1\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 2\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_2\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\10-03_03\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Downloads\C#\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project..A91D4F4B.Up2Date
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\Users\מילכה\Desktop\ששי\C#\10.03\גרסה 5\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\angular\11_03\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\גמור\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\finish\גמור\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\c#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\up\‏‏c# - עותק (3)\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Service.deps.json
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Core.dll
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Data.dll
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Core.pdb
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\bin\Debug\net6.0\Project.Data.pdb
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.AssemblyReference.cache
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfoInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.AssemblyInfo.cs
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CoreCompileInputs.cache
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.csproj.CopyComplete
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\refint\Project.Service.dll
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\Project.Service.pdb
+C:\תמר\לימודים\שנה ב\ששי\לעלות סופיי\C#\Project\Project.Service\obj\Debug\net6.0\ref\Project.Service.dll
